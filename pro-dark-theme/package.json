@@ -1,0 +1,37 @@
+{
+  "name": "pro-dark-theme-color-theme",
+  "displayName": "Pro Dark Theme",
+  "description": "A custom dark theme for Visual Studio Code",
+  "version": "1.0.0",
+  "publisher": "Astray Youth",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pro Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pro-dark-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AstrayYouth/pro-dark-theme.git"
+  },
+  "icon": "icon.png",
+  "gallery": {
+    "screenshots": [
+      {
+        "path": "screenshot1.png",
+        "altText": "Screenshot 1"
+      },
+      {
+        "path": "screenshot2.png",
+        "altText": "Screenshot 2"
+      }
+    ]
+  }
+}
