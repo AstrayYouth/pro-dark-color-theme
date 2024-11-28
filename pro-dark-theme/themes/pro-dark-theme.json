@@ -1846,7 +1846,7 @@
   ],
   "colors": {
     "foreground": "#ffffff",
-    "focusBorder": "#5e5e5e",
+    "focusBorder": "#808080",
     "selection.background": "#256aa7",
     "scrollbar.shadow": "#000000",
     "activityBar.foreground": "#ffffff",
@@ -1859,7 +1859,7 @@
     "sideBarSectionHeader.background": "#171717",
     "sideBarSectionHeader.foreground": "#ffffff",
     "sideBarSectionHeader.border": "#ffffff33",
-    "sideBarTitle.foreground": "#bbbbbb",
+    "sideBarTitle.foreground": "#d0d0d0",
     "list.inactiveSelectionBackground": "#37373d",
     "list.inactiveSelectionForeground": "#cccccc",
     "list.hoverBackground": "#454b4d",
